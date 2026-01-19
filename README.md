@@ -19,3 +19,4 @@ Mettre en place une infrastructure réseau locale permettant d'accéder à un si
 
 ## Membres du groupe
 * ONDO NDONG SAMUEL JEAMIR
+* LENGADIO MICHAEL
